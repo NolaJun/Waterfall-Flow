@@ -1,0 +1,5 @@
+*{margin: 0;padding: 0;}
+#picWalls{position: relative;}
+.image-box{padding: 15px 0 0 15px; float: left;}
+.pic{padding: 10px;border: 1px solid #ccc;border-radius: 5px;box-shadow:0 0 2px #ccf; }
+.pic img{width: 120px;height: auto;}
